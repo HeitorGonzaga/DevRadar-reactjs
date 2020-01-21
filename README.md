@@ -1,7 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## DevRadar-reactjs
+
+This project was created from concepts learned and made available in the week 10 of rocketseat ominstack. In this project, concepts of geolocation and integration with mongodb were used.
+
 
 ![web01](https://user-images.githubusercontent.com/30155829/72833791-4cbce500-3c66-11ea-98ba-7d02c7d5906c.PNG)
 
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
